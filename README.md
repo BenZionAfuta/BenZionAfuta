@@ -8,7 +8,7 @@
 
 - 📫Reach me - **Benzi1331@gmail.com**
 
-- 📄 Know about my experiences [1st Hackathon Winner - Zefat Academy Collage]
+- 📄 1st Hackathon Winner - Zefat Academy Collage
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
