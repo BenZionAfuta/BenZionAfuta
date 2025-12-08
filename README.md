@@ -1,5 +1,5 @@
 <h1 align="center">Its - Ben-Zion Afuta</h1>
-<h3 align="center">Full-stack thinker. Code, data, AI, and real-world solutionsm, that’s my lane.</h3>
+<h3 align="center">Full-stack thinker. Code, data, AI, and real-world solutions, that’s my lane.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benzionafuta&label=Profile%20views&color=0e75b6&style=flat" alt="benzionafuta" /> </p>
