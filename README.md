@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my Final project **Innovated Attendance System**
 
-- 📫Reach me - **Benzi1331@gmail.com**
+- 📫Reach me - **Benzi1331@gmail.com **
 
 - 📄 1st Hackathon Winner - Zefat Academy Collage
 
