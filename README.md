@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benzionafuta&label=Profile%20views&color=0e75b6&style=flat" alt="benzionafuta" /> </p>
 
-- 🔭 I’m currently working on my Final project **Innovated Attendance System - Attendy1**
+- 🔭 I’m currently working on my Final project **Innovated Attendance System**
 
 - 📫Reach me - **Benzi1331@gmail.com **
 
