@@ -8,8 +8,8 @@
 
 - 📫Reach me - **Benzi1331@gmail.com **
 
-- 📄 1st Hackathon Winner - Zefat Academy Collage
-- 📄 Bussiness Game (Marketplace Simulation) 1st Place + Top 2% Worldwide
+- 📄 1st Hackathon Winner - Zefat Academy Collage.
+- 📄 Bussiness Game (Marketplace Simulation) 1st Place + Top 2% Worldwide.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
